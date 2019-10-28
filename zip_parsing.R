@@ -26,3 +26,5 @@ for (x in clinic_list$matches){
 #remove unnecessary columns
 clinic_list$matches <- NULL
 clinic_list$zip <- NULL
+
+#let's see if this works
